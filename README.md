@@ -15,6 +15,8 @@ Install the required dependencies:
 ````bash
 pip install -r requirements.txt
 
+
+
 Set up the Gemini API key :
 
 ````bash
