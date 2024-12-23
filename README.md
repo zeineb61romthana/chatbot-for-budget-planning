@@ -11,16 +11,12 @@ Welcome to the **Finance Chatbot** project! This chatbot helps users organize th
    git clone https://github.com/zeineb61romthana/chatbot-for-budget-planning.git
    
 Install the required dependencies:
-
-````bash
-pip install -r requirements.txt
-
-
+   ````bash
+   pip install -r requirements.txt
 
 Set up the Gemini API key :
-
-````bash
-export GOOGLE_API_KEY='api_key'
+    ````bash
+   export GOOGLE_API_KEY='api_key'
 
 ### Step 2: run the chatbot
 To run the chatbot, simply execute the Python notebook.
